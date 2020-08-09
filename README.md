@@ -4,7 +4,7 @@ https://tech.meituan.com/change_log_level.html 《日志级别动态调整——
 
 # 更新
 2020-08-09<br />
-1、开发了升级版，分module运行，请可 https://github.com/sekift/change-log-level-pro 。<br />
+1、开发了升级版，分module运行，请看： https://github.com/sekift/change-log-level-pro 。<br />
 
 2018-05-18<br />
 1、增加简单使用http从web获取日志配置的类，可自行扩展。<br />
