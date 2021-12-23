@@ -29,3 +29,7 @@ https://tech.meituan.com/change_log_level.html 《日志级别动态调整——
 # 更多请看
 https://tech.meituan.com/change_log_level.html 《日志级别动态调整——小工具解决大问题》<br />
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/sekift/change-log-level.svg)](https://starchart.cc/sekift/change-log-level)
+
